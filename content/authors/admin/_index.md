@@ -1,8 +1,7 @@
 ---
 title: Nixon Candiales
 role: PhD Student in Economics
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: Under construction...
 interests: []
 social:
   - icon: envelope
