@@ -24,15 +24,15 @@ organizations:
     url: https://www.emory.edu/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Economics
+      institution: Emory University
+      year: 2025
+    - course: MA in Economics
+      institution: The University of Texas at Austin
+      year: 2020
+    - course: BA in Economics
+      institution: Universidad Industrial de Santander
+      year: 2013
 email: ""
 superuser: true
 highlight_name: true
