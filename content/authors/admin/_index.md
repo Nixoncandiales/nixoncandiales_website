@@ -15,10 +15,10 @@ social:
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/Nixoncandiales
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/nixon-alberto-torres-candiales-55024822b
 organizations:
   - name: Emory Univeristy
     url: https://www.emory.edu/
