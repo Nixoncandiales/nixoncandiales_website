@@ -32,7 +32,7 @@ education:
       year: 2020
     - course: BA in Economics
       institution: Universidad Industrial de Santander
-      year: 2013
+      year: 2014
 email: ""
 superuser: true
 highlight_name: true
