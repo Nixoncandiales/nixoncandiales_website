@@ -3,7 +3,7 @@ title: Nixon Candiales
 role: PhD Student in Economics
 avatar_filename: avatar.jpg
 bio: ""
-interests: [Education]
+interests: [Labor Economics]
 social:
   - icon: envelope
     icon_pack: fas
