@@ -3,7 +3,10 @@ title: Nixon Candiales
 role: PhD Student in Economics
 avatar_filename: avatar.jpg
 bio: ""
-interests: [Labor Economics, Economics of Education, Causal Inference]
+interests:
+  - Labor Economics
+  - Economics of Education
+  - Causal Inference
 social:
   - icon: envelope
     icon_pack: fas
@@ -25,7 +28,7 @@ organizations:
     url: https://www.emory.edu/
 education:
   courses:
-    - course: PhD in Economics
+    - course: PhD in Economics (Expected)
       institution: Emory University
       year: 2025
     - course: MA in Economics
