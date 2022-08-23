@@ -1,7 +1,7 @@
 ---
 title: Nixon Candiales
 role: PhD Student in Economics
-avatar_filename: 0040701-22kh-f0295.jpg
+avatar_filename: Pic.jpg
 bio: ""
 interests: []
 social:
@@ -34,7 +34,7 @@ education:
     - course: BA in Economics
       institution: Universidad Industrial de Santander
       year: 2014
-email: ""
+email: nixon.torres.candiales@emory.edu
 superuser: true
 highlight_name: true
 ---
