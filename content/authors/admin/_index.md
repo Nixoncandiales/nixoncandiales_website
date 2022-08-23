@@ -1,7 +1,7 @@
 ---
 title: Nixon Candiales
 role: PhD Student in Economics
-avatar_filename: avatar.jpg
+avatar_filename: avatar2.jpg
 bio: ""
 interests: []
 social:
