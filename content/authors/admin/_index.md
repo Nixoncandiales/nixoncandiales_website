@@ -28,7 +28,7 @@ organizations:
     url: https://www.emory.edu/
 education:
   courses:
-    - course: PhD in Economics (Expected)
+    - course: PhD in Economics
       institution: Emory University
       year: 2025
     - course: MA in Economics
