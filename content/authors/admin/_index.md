@@ -40,4 +40,4 @@ highlight_name: true
 ---
 Nixon Torres Candiales is from Colombia. He holds a M.A. in Economics from the University of Texas at Austin and a B.A. in Economics from Universidad Industrial de Santander, Colombia. His professional experience includes positions at the Colombia's National Administrative Department of Statistics and the Colombia’s poultry association. His primary research interests are labor, health, and economics of education. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
