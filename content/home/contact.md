@@ -28,7 +28,7 @@ content:
   email: nixon.torres.candiales@emory.edu
   phone: 608-350-8553
   address:
-    street: 450 Serra Mall
+    street: 1602 Fishburne Dr, Rich Building 310D
     city: Atlanta
     region: GA
     postcode: '30307'
