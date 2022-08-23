@@ -25,7 +25,7 @@ content:
   #    captcha: false
 
   # Contact details (edit or remove options as required)
-  email: nixon.torres.candiales@emory.edu
+  email: natorre@emory.edu
   phone: 608-350-8553
   address:
     street: 1602 Fishburne Dr
