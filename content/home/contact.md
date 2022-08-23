@@ -28,7 +28,7 @@ content:
   email: nixon.torres.candiales@emory.edu
   phone: 608-350-8553
   address:
-    street: 1602 Fishburne Dr, Rich Building 310D
+    street: 1602 Fishburne Dr
     city: Atlanta
     region: GA
     postcode: '30307'
@@ -37,7 +37,7 @@ content:
   coordinates:
     latitude: '37.4275'
     longitude: '-122.1697'
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+  directions: Rich Building Office 310D-2
   contact_links:
     - icon: twitter
       icon_pack: fab
