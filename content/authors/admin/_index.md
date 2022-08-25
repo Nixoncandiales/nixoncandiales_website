@@ -6,6 +6,7 @@ bio: ""
 interests:
   - Labor Economics
   - Economics of Education
+  - Health Economics
   - Causal Inference
 social:
   - icon: envelope
