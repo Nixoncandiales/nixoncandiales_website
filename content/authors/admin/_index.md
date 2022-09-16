@@ -43,8 +43,7 @@ superuser: true
 highlight_name: true
 ---
 Nixon Candiales is a second year Economics Ph.D. student at Emory University. He holds a M.A. in Economics from The University of Texas at Austin and a B.A. in Economics from Universidad Industrial de Santander, Colombia. 
-`His professional experience includes positions at the Colombia's National Administrative Department of Statistics and the Colombia’s poultry association. 
-`
+`His professional experience includes positions at the Colombia's National Administrative Department of Statistics and the Colombia’s poultry association.`
 His primary research interests are labor, health, and economics of education. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
