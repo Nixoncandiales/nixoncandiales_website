@@ -42,6 +42,6 @@ email: nixon.torres.candiales@emory.edu
 superuser: true
 highlight_name: true
 ---
-Nixon Candiales is a second year Economics Ph.D. student at Emory University. He holds a M.A. in Economics from The University of Texas at Austin and a B.A. in Economics from Universidad Industrial de Santander, Colombia. His primary research interests are labor, health, and economics of education. 
+Nixon Candiales is a doctoral student in economics at Emory University. His research interests lies at the intersection of labor, health, and economics of education.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
